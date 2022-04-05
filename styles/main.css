@@ -12,6 +12,14 @@ html {
 
 /* Card Container Styles */
 
+.card {
+  width: 35em;
+  height: 22em;
+  margin: 5em auto;
+  background-color: red;
+  border: 0.2em solid black;
+  border-radius: 1.5em;
+}
 
 /* Header and Footer Styles */
 
